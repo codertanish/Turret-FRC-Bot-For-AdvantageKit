@@ -12,7 +12,7 @@ By cloning or downloading this repository and transferring's it contents into Ad
 - **3D model:** `.glb`
 - **Robot config:** `.json` defining joints, camera positions, and transforms
 
-## 🚀 Using This Folder in AdvantageScope
+## Using This Folder in AdvantageScope
 
 1. Clone or download this repository.
 2. Open **AdvantageScope**.
